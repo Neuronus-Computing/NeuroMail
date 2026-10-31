@@ -1,6 +1,4 @@
 # NeuroMail — private email, no identity needed
-Web app for NeuroMail, the email service of the Neuronus ecosystem.
-# NeuroMail — private email, no identity needed
 
 **Web app for NeuroMail, the email service of the Neuronus ecosystem.**
 
